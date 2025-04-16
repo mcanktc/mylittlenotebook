@@ -30,4 +30,4 @@ ily <3 see ya 💫
 
 ## 🚀 How to Run
 ```bash
-python notepad.py
+python notepad-en.py
